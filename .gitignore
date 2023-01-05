@@ -1,0 +1,5 @@
+# replit weirdness
+.cache/
+.config/
+.replit
+replit.nix
